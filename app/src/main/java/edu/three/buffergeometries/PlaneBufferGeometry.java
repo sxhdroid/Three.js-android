@@ -4,6 +4,9 @@ import edu.three.core.BufferAttribute;
 import edu.three.core.BufferGeometry;
 import edu.three.geometries.param.PlaneParam;
 
+/**
+ * 平面
+ */
 public class PlaneBufferGeometry extends BufferGeometry {
     private PlaneParam param;
     //buffers

@@ -1,5 +1,8 @@
 package edu.three.buffergeometries;
 
+/**
+ * 十二面提
+ */
 public class DodecahedronBufferGeometry extends PolyhedronBufferGeometry {
 
     float t = ( 1 + (float) Math.sqrt( 5 ) ) / 2;

@@ -1,5 +1,8 @@
 package edu.three.buffergeometries;
 
+/**
+ * 二十面体
+ */
 public class IcosahedronBufferGeometry extends PolyhedronBufferGeometry {
     float t = ( 1 + (float) Math.sqrt( 5 ) ) / 2;
     float[] vertices = new float[] {

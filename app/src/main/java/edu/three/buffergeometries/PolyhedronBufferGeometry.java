@@ -9,6 +9,9 @@ import edu.three.math.MathTool;
 import edu.three.math.Vector2;
 import edu.three.math.Vector3;
 
+/**
+ * 多面体
+ */
 public class PolyhedronBufferGeometry extends BufferGeometry {
     double radius = 1;
     int detail = 0;

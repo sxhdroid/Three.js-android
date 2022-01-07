@@ -1,5 +1,8 @@
 package edu.three.buffergeometries;
 
+/**
+ * 立方体
+ */
 public class TetrahedronBufferGeometry extends PolyhedronBufferGeometry {
     float[] vertices = new float[]{
             1, 1, 1, -1, -1, 1, -1, 1, -1, 1, -1, -1

@@ -5,6 +5,9 @@ import edu.three.core.BufferGeometry;
 import edu.three.geometries.param.CylinderParam;
 import edu.three.math.Vector3;
 
+/**
+ * 圆柱体
+ */
 public class CylinderBufferGeometry extends BufferGeometry {
     private CylinderParam param;
 

@@ -1,5 +1,8 @@
 package edu.three.buffergeometries;
 
+/**
+ * 八面体
+ */
 public class OctahedronBufferGeometry extends PolyhedronBufferGeometry {
     float[] vertices = new float[] {
             1, 0, 0, 	- 1, 0, 0,	0, 1, 0,

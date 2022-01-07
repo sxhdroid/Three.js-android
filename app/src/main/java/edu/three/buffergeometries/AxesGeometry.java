@@ -3,6 +3,9 @@ package edu.three.buffergeometries;
 import edu.three.core.BufferAttribute;
 import edu.three.core.BufferGeometry;
 
+/**
+ * 轴
+ */
 public class AxesGeometry extends BufferGeometry {
 
     private float size;

@@ -5,6 +5,9 @@ import edu.three.core.BufferGeometry;
 import edu.three.geometries.param.SphereParam;
 import edu.three.math.Vector3;
 
+/**
+ * 球
+ */
 public class SphereBufferGeometry extends BufferGeometry {
     private SphereParam param;
     //buffers
